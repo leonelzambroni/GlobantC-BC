@@ -1,0 +1,5 @@
+﻿  GlobantC++BC.cpp
+c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  GlobantC++BC.vcxproj -> c:\users\leonelzambroni\documents\visual studio 2015\Projects\GlobantC++BC\Debug\GlobantC++BC.exe
+  GlobantC++BC.vcxproj -> c:\users\leonelzambroni\documents\visual studio 2015\Projects\GlobantC++BC\Debug\GlobantC++BC.pdb (Full PDB)
