@@ -8,6 +8,7 @@ using std::cout;
 using std::endl;
 using std::cin;
 #define sum(a,b) a+b
+#define sumb (a,b) a+b
 
 int main()
 {
@@ -32,7 +33,7 @@ int main()
 	cin >> d;
 
 
-	s1 = sum(c, d);
+	s1 = sumb (c, d);
 	printf("sum incorrecta: ", s1);
 
 }

@@ -1,5 +1,5 @@
 ﻿  GlobantC++BC.cpp
-c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): warning C4474: 'printf' : too many arguments passed for format string
-  c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-  GlobantC++BC.vcxproj -> c:\users\leonelzambroni\documents\visual studio 2015\Projects\GlobantC++BC\Debug\GlobantC++BC.exe
-  GlobantC++BC.vcxproj -> c:\users\leonelzambroni\documents\visual studio 2015\Projects\GlobantC++BC\Debug\GlobantC++BC.pdb (Full PDB)
+c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): error C2146: syntax error: missing ';' before identifier 'a'
+c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(36): error C2064: term does not evaluate to a function taking 2 arguments
+c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(37): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\leonelzambroni\documents\visual studio 2015\projects\globantc++bc\globantc++bc\globantc++bc.cpp(37): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
